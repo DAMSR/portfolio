@@ -1,10 +1,9 @@
 import React from "react";
 import "./about.css";
 import AboutImg from "../../assets/profile.jpg";
-import CV from "../../assets/John-Cv.pdf";
+import CV from "../../assets/cv.pdf";
 import Info from "./Info";
 
-//1 heure.02 minutes.44 secondes
 const About = () => {
   return (
     <section className="about section" id="about">
